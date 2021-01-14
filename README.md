@@ -1,18 +1,17 @@
-[![Build Status](https://travis-ci.org/eltech-cad-masters/exam_tickets_itpp_2021_solnicev.svg?branch=master)](https://travis-ci.org/eltech-cad-masters/exam_tickets_itpp_2021_solnicev)
-[![Build Status](https://cloud.drone.io/api/badges/eltech-cad-masters/exam_tickets_itpp_2021_solnicev/status.svg)](https://cloud.drone.io/eltech-cad-masters/exam_tickets_itpp_2021_solnicev)
+[![Build Status](https://cloud.drone.io/api/badges/eltech-cad-masters/exam_tickets_oii_2021_novakova/status.svg)](https://cloud.drone.io/eltech-cad-masters/exam_tickets_oii_2021_novakova)
 
-# Ответы на экзаменационные вопросы [ИТПП, Сольницев, 2021]
+# Ответы на экзаменационные вопросы [ОИИ, Новакова, 2021]
 
-Репозиторий с ответами на экзаменационные вопросы по дисциплине "Методы оптимизации".
+Репозиторий с ответами на экзаменационные вопросы по дисциплине "Основы искуственного интелекта".
 
 СПбГЭТУ "ЛЭТИ", САПР, 2021
 
-**Дисциплина:** ИТПП
+**Дисциплина:** ОИИ
 
-**Преподаватель:** Сольницев
+**Преподаватель:** Новакова
 
-**Семестр:** 9
+**Семестр:** 3
 
-[Скачать книжку](https://github.com/eltech-cad-masters/exam_tickets_itpp_2021_solnicev/releases/latest)
+[Скачать книжку](https://github.com/eltech-cad-masters/exam_tickets_oii_2021_novakova/releases/latest)
 
-[Онлайн версия](https://eltech-cad-masters.github.io/exam_tickets_itpp_2021_solnicev/)
+[Онлайн версия](https://eltech-cad-masters.github.io/exam_tickets_oii_2021_novakova/)
